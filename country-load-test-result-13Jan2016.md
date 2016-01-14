@@ -26,6 +26,6 @@
 
 # response time 
 
-- on an average the response time for a single call was under 800 ms and for the whoile journey which consists 12 calls was under 2 seconds
+- The average response time for a single call was under 800 ms and for the whoile journey which consists 12 calls was under 2 seconds
 
 
