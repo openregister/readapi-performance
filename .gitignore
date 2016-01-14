@@ -1,0 +1,6 @@
+
+performance/lib/
+performance/build/
+performance/.gradle/
+performance/target/
+performance/results/*
