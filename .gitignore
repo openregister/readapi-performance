@@ -1,6 +1,6 @@
 
-performance/lib/
-performance/build/
-performance/.gradle/
-performance/target/
-performance/results/*
+lib/
+build/
+.gradle/
+target/
+results/*
