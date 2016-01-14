@@ -1,6 +1,6 @@
 # environment
 
-- Ran tests on country.preview.openregister.org
+- Ran tests on `country.preview.openregister.org`
 - Used t2.medium instance with 2 cpu and 4 GB ram
 - Read api java process was assigned with 512MB heap space
 
@@ -26,6 +26,5 @@
 
 # response time 
 
-- The average response time for a single call was under 800 ms and for the whoile journey which consists 12 calls was under 2 seconds
-
+- The average response time for a single call was under 800 ms 
 
